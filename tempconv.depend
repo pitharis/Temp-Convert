@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1537031484 source:/home/panagiotisc/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/main.cpp
+	"TempConv.h"
+
+1537033339 /home/panagiotisc/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/include/TempConv.h
+	<iostream>
+	<math.h>
+
+1537219997 source:/home/panagiotisc/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/src/TempConv.cpp
+	"TempConv.h"
+
+1537031484 source:/home/panagiotis/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/main.cpp
+	"TempConv.h"
+
+1537033339 /home/panagiotis/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/include/TempConv.h
+	<iostream>
+	<math.h>
+
+1537382900 source:/home/panagiotis/My_Projects/CODEBLOCKS/CPP_Projects/tempconv/src/TempConv.cpp
+	"TempConv.h"
+
